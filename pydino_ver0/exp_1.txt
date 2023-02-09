@@ -1,0 +1,59 @@
+-------episode 0-------
+Episode_reward_sum 7 New_reward_sum 3.1604355203619914 Max_reward_sum 8 #DQN memeory 9
+-------episode 1-------
+Episode_reward_sum 6 New_reward_sum 2.6344174208144793 Max_reward_sum 8 #DQN memeory 17
+-------episode 2-------
+Episode_reward_sum 7 New_reward_sum 3.162641402714933 Max_reward_sum 8 #DQN memeory 26
+-------episode 3-------
+Episode_reward_sum 7 New_reward_sum 3.1555147058823536 Max_reward_sum 8 #DQN memeory 35
+-------episode 4-------
+Episode_reward_sum 7 New_reward_sum 3.1548925339366525 Max_reward_sum 8 #DQN memeory 44
+-------episode 5-------
+Episode_reward_sum 7 New_reward_sum 3.16052036199095 Max_reward_sum 8 #DQN memeory 53
+-------episode 6-------
+Episode_reward_sum 7 New_reward_sum 3.1595022624434392 Max_reward_sum 8 #DQN memeory 62
+-------episode 7-------
+Episode_reward_sum 7 New_reward_sum 3.1612556561085974 Max_reward_sum 8 #DQN memeory 71
+-------episode 8-------
+Episode_reward_sum 7 New_reward_sum 3.160576923076923 Max_reward_sum 8 #DQN memeory 80
+-------episode 9-------
+Episode_reward_sum 7 New_reward_sum 3.158059954751131 Max_reward_sum 8 #DQN memeory 89
+-------episode 10-------
+Episode_reward_sum 6 New_reward_sum 2.6371606334841626 Max_reward_sum 8 #DQN memeory 97
+-------episode 11-------
+Episode_reward_sum 6 New_reward_sum 2.6399038461538464 Max_reward_sum 8 #DQN memeory 105
+-------episode 12-------
+Episode_reward_sum 6 New_reward_sum 2.638857466063349 Max_reward_sum 8 #DQN memeory 113
+-------episode 13-------
+Episode_reward_sum 7 New_reward_sum 3.1611142533936656 Max_reward_sum 8 #DQN memeory 122
+-------episode 14-------
+Episode_reward_sum 6 New_reward_sum 2.637302036199095 Max_reward_sum 8 #DQN memeory 130
+-------episode 15-------
+Episode_reward_sum 7 New_reward_sum 3.1569004524886886 Max_reward_sum 8 #DQN memeory 139
+-------episode 16-------
+Episode_reward_sum 6 New_reward_sum 2.638574660633484 Max_reward_sum 8 #DQN memeory 147
+-------episode 17-------
+Episode_reward_sum 7 New_reward_sum 3.1572115384615387 Max_reward_sum 8 #DQN memeory 156
+-------episode 18-------
+Episode_reward_sum 6 New_reward_sum 2.642364253393665 Max_reward_sum 8 #DQN memeory 164
+-------episode 19-------
+Episode_reward_sum 7 New_reward_sum 3.155175339366516 Max_reward_sum 8 #DQN memeory 173
+-------episode 20-------
+Episode_reward_sum 6 New_reward_sum 2.6398755656108603 Max_reward_sum 8 #DQN memeory 181
+-------episode 21-------
+Episode_reward_sum 7 New_reward_sum 3.1603789592760174 Max_reward_sum 8 #DQN memeory 190
+-------episode 22-------
+Episode_reward_sum 6 New_reward_sum 2.6395079185520363 Max_reward_sum 8 #DQN memeory 198
+-------episode 23-------
+Episode_reward_sum 7 New_reward_sum 3.1569004524886886 Max_reward_sum 8 #DQN memeory 207
+-------episode 24-------
+Episode_reward_sum 7 New_reward_sum 3.1569004524886886 Max_reward_sum 8 #DQN memeory 216
+-------episode 25-------
+Episode_reward_sum 7 New_reward_sum 3.1612556561085974 Max_reward_sum 8 #DQN memeory 225
+-------episode 26-------
+Episode_reward_sum 7 New_reward_sum 3.156363122171946 Max_reward_sum 8 #DQN memeory 234
+-------episode 27-------
+Episode_reward_sum 7 New_reward_sum 3.1621889140271495 Max_reward_sum 8 #DQN memeory 243
+-------episode 28-------
+Episode_reward_sum 7 New_reward_sum 3.155260180995475 Max_reward_sum 8 #DQN memeory 252
+-------episode 29-------
